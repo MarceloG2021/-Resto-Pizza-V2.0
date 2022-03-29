@@ -10,3 +10,4 @@
 
 ## 5 Product Page Design
 
+## 6 Responsive Design
